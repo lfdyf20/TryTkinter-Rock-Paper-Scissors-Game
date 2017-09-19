@@ -1,3 +1,7 @@
+"""
+First Python app I made, just for fun. 
+"""
+
 import matplotlib
 matplotlib.use("TkAgg")
 from matplotlib import pyplot as plt
